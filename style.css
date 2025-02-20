@@ -6,8 +6,26 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    
+}
+body{
+    background-image: url(backgrpund.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.alinhamento h1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
+.alinhamento{
+    border: 2px solid #000000;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.13);
+}
 
 
 input {
@@ -53,9 +71,13 @@ li {
     background: #dc3545;
     color: white;
     border: none;
+    height: 35px;
+    width: 110px;
     padding: 5px 10px;
     cursor: pointer;
     font-size: 14px;
+    border-radius: 10px;
+    margin-left: 20px;
 }
 
 .deletar_bu:hover {
