@@ -4,7 +4,7 @@ Este projeto é uma aplicação simples de **To-Do List** desenvolvida com **HTM
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Adicionar tarefas à lista
 - Remover tarefas individualmente
@@ -15,7 +15,7 @@ Este projeto é uma aplicação simples de **To-Do List** desenvolvida com **HTM
 
 
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Ferramentas     | Finalidade                                             |
 |-----------------|--------------------------------------------------------|
